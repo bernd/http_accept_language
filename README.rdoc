@@ -35,6 +35,8 @@ See also: http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
 == Installation
 
 Install the gem <tt>http_accept_language</tt>, require it in your Rails app.
+For Sinatra support require <tt>http_accept_language/sinatra</tt>. See
+Sinatra::HttpAcceptLanguage for details.
 
 == Changelog
 
